@@ -1,9 +1,9 @@
 
-package lista_de_exercicios3;
+package exercicios;
 
 import javax.swing.JOptionPane;
 
-public class Exercício23 {
+public class ex03w {
     
         public static void main(String[] args) {
             
