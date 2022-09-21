@@ -24,10 +24,6 @@ public class ex03x {
             }
             contador++;
         }
-        JOptionPane.showMessageDialog(null,"Se a pessoa A tem R$10.000 e tem sua fortuna crescendo em R$100 por mês
-                \ne a pessoa B tem uma fortuna de R$5.000 e tem sua fortuna crescendo R$300 por mês\n \n
-                Então o tempo demorado para a Pessoa B ter mais dinheiro que a Pessoa A foi de: \n"+ contador +" meses.
-                \n \nApós 26 meses a pessoa A ficou estará com uma fortuna de: R$" +pessoaA+ "\nApós 26 meses a 
-                pessoa B ficou estará com uma fortuna de: R$" +pessoaB);
+        JOptionPane.showMessageDialog(null,"Se a pessoa A tem R$10.000 e tem sua fortuna crescendo em R$100 por mê\ne a pessoa B tem uma fortuna de R$5.000 e tem sua fortuna crescendo R$300 por mês\n \nEntão o tempo demorado para a Pessoa B ter mais dinheiro que a Pessoa A foi de: \n"+ contador +" meses.\n \nApós 26 meses a pessoa A ficou estará com uma fortuna de: R$" +pessoaA+ "\nApós 26 meses a pessoa B ficou estará com uma fortuna de: R$" +pessoaB);
     }
 }
