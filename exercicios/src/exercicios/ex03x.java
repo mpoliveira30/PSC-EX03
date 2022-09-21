@@ -1,4 +1,5 @@
 package exercicios;
+
 import javax.swing.JOptionPane;
 
 public class ex03x {
