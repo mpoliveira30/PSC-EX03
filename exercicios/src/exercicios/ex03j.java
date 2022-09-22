@@ -27,6 +27,6 @@ public class ex03j {
             }
             count++;
         } 
-        System.out.println("O Paciente com a maior idade é o de " +maior +" e o com a menor idade é o de " +menor);
+        System.out.println("O Paciente com a maior idade é o de " +maior +" anos, e o com a menor idade é o de " +menor +" anos.");
     }
 }
