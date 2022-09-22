@@ -10,13 +10,13 @@ public class ex03o{
 
         Scanner scan = new Scanner(System.in);
  
-        System.out.print("Numero 1 [0 para finalizar]:  ");
+        System.out.print("[Digite 0 para finalizar] \nNúmero 1: ");
         num = scan.nextFloat();
      
         maior = num;
 
         while(num != 0){
-            System.out.print("Numero " + count + " : ");
+            System.out.print("Número " + count + " : ");
             num = scan.nextFloat();
  
             if(num > maior){
@@ -24,6 +24,6 @@ public class ex03o{
             } 
             count++;
         } 
-        System.out.println("O maior numero digitado é: "+maior);
+        System.out.println("O maior número digitado é: "+maior);
     }
 }
