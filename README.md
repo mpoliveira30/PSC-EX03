@@ -1,4 +1,12 @@
 # PSC-EX03
+
+Felipe Venezuela do Nascimento RA: 822155758
+<br>
+Matheus de Paula Oliveira - RA: 822160889
+<br>
+Rodrigo Teru Nakamura RA: 82211408
+
+
 For/While
 
 1. [Exercício B](/exercicios/src/exercicios/ex03b.java)
